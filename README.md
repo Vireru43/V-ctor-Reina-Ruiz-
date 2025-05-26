@@ -39,6 +39,10 @@ El proyecto consistió en crear un robot desde cero para superar diversos obstá
 
 Este desafío implicó competir contra robots de otros grupos de toda España, lo que me permitió aprender y poner en práctica habilidades técnicas y de trabajo en equipo.
 
+Además, tuve la oportunidad de hacer prácticas en la empresa PawsMalaga durante 1 semana gracias a un bootcamp del cual recibí un diploma por ello. Durante este bootcamp
+tuve que colaborar y relacionarme con neerlandeses a través del inglés. Al terminar, tuve que presentar en inglés como podíamos hacer crecer a la empresa a través del
+marketing digital. Todo un desafío.
+
 ## 🌐 Idiomas
 
 - **Inglés**  
