@@ -1,2 +1,2 @@
-# V-ctor-Reina-Ruiz-
+# Victor-Reina-Ruiz-
 Currículum Vitae y Carta de Presentación
